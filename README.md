@@ -30,7 +30,6 @@ This project involves:
 - ETL Pipeline Developer  
 - Data Modeling  
 - Data Analytics  
-
 ---
 
 ## 🛠️ Important Links & Tools:
